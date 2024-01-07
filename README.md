@@ -1,4 +1,4 @@
-_Newly installed plugins are : areact_## whatsApp User Bot
+## whatsApp User Bot
 
 This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com/Quiec)
 
